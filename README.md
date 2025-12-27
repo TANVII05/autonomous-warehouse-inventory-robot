@@ -58,7 +58,6 @@ ros2 run <package_name> b3rb_ros_warehouse
 - Reliable inventory data generation using vision-based perception
 - Stable integration of SLAM, Nav2, and vision pipeline in ROS 2
 
----
 
 ## My Contribution
 I independently worked on the design, implementation, and integration of the
@@ -75,7 +74,6 @@ core robotics pipeline for this project, including:
 This repository is maintained and documented by me to showcase my individual
 understanding and implementation of autonomous robotics systems.
 
----
 
 ## Limitations
 - Implemented and tested only in simulation
