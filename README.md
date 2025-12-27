@@ -15,10 +15,10 @@ detection to identify and count items on shelves.
 ![SLAM Map](screenshots/slam_mapping.png)
 
 ### Object Detection from Robot Camera
-![Object Detection](screenshots/detection.png)
+![Object Detection](screenshots/navigation.png)
 
 ### Autonomous Navigation and Path Planning
-![Navigation Path](screenshots/navigation.png)
+![Navigation Path](screenshots/detection.png)
 
 ## Key Features
 - Autonomous exploration of unknown environments
