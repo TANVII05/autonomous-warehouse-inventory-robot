@@ -8,7 +8,8 @@ The robot uses SLAM for mapping, Nav2 for path planning, and YOLO-based object
 detection to identify and count items on shelves.
 
 ## Demo
-Working Video: https://www.youtube.com/watch?v=7wsWYUg1ylI
+Working Video: https://www.youtube.com/watch?v=7wsWYUg1ylI  
+Detailed Report: [Project Report](docs/project_report.pdf)
 
 ## Key Features
 - Autonomous exploration of unknown environments
